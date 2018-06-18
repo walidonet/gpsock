@@ -70,7 +70,7 @@ swiftmailer:
 # Web Socket Configuration
 gos_web_socket:
     server:
-        port: 8080        #The port the socket server will listen on
+        port: 8888        #The port the socket server will listen on
         host: 127.0.0.1   #The host ip to bind to
 # app/config/config.yml
 assetic:
